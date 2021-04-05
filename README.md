@@ -1,4 +1,5 @@
-# Tree-based-Modeling- Explanined in detail 
+# Tree-based-Modeling- Basics 
+
 
 Tree based algorithms are considered to be one of the best and mostly used supervised learning methods. Tree based algorithms empower predictive models with high accuracy, stability and ease of interpretation. Unlike linear models, they map non-linear relationships quite well. 
 They are adaptable at solving any kind of problem at hand (classification or regression).
